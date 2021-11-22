@@ -1,6 +1,6 @@
 
 """
-TITLE: How to plot multiple bars that are close to each other
+TITLE: How to plot multiple bars next to each other
 @author: Oluwatosin S. Oluseyi
 """
 
