@@ -1,7 +1,8 @@
 
 """
 TITLE: grouped bar plots
-@author: Oluwatosin S. Oluseyi , December, 11, 2021
+@author: Oluwatosin Odubanjo 
+@date: December, 11, 2021
 """
 
 import numpy as np
