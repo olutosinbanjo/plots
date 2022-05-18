@@ -1,7 +1,7 @@
 
 """
 TITLE: How to plot multiple bars next to each other
-@author: Oluwatosin S. Oluseyi
+@author: Oluwatosin Odubanjo
 """
 
 import matplotlib.pyplot as plt
